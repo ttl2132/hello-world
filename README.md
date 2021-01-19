@@ -1,2 +1,3 @@
 # hello-world
-Just another repository
+
+Hi everyone! My name is Tian and I like to code.
